@@ -140,7 +140,7 @@ TEST_CASE( "PipeNetwork_test" )
 
     REQUIRE_NOTHROW( PipeNetwork( "testinput.txt" ).computeFluxes( ) );
 
-	//system("pause");
+	
 }
 
 } // pipenetwork
